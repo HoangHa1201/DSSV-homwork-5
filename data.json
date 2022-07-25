@@ -1,0 +1,98 @@
+[
+    {
+        "maSV": "17110HN",
+        "tenSV": "Nguyễn Văn A",
+        "tuoi":18,
+        "gioiTinh":"Nam",
+        "ngaySinh":"01/01/2000",
+        "diemToan":4,
+        "diemLy":5.5,
+        "diemHoa":6.5,
+        "diemAnh":7.5,
+        "lop": "17C1"
+    },
+    {
+        "maSV": "17111HN",
+        "tenSV": "Nguyễn Văn D",
+        "tuoi":18,
+        "gioiTinh":"Nam",
+        "ngaySinh":"01/01/2000",
+        "diemToan":4,
+        "diemLy":5.5,
+        "diemHoa":6.5,
+        "diemAnh":7.5,
+        "lop": "17C2"
+    },
+    {
+        "maSV": "17112HN",
+        "tenSV": "Nguyễn Văn B",
+        "tuoi":18,
+        "gioiTinh":"Nam",
+        "ngaySinh":"02/01/2000",
+        "diemToan":9,
+        "diemLy":9,
+        "diemHoa":9,
+        "diemAnh":9,
+        "lop": "17C1"
+    },
+    {
+        "maSV": "17113HN",
+        "tenSV": "Nguyễn Văn E",
+        "tuoi":18,
+        "gioiTinh":"Nam",
+        "ngaySinh":"02/01/2000",
+        "diemToan":9,
+        "diemLy":9,
+        "diemHoa":9,
+        "diemAnh":9,
+        "lop": "17C2"
+    },
+    {
+        "maSV": "17114HN",
+        "tenSV": "Nguyễn Văn C",
+        "tuoi":18,
+        "gioiTinh":"Nữ",
+        "ngaySinh":"03/01/2000",
+        "diemToan":6,
+        "diemLy":6,
+        "diemHoa":6,
+        "diemAnh":6,
+        "lop": "17C1"
+    },
+    {
+        "maSV": "17115HN",
+        "tenSV": "Nguyễn Văn H",
+        "tuoi":18,
+        "gioiTinh":"Nữ",
+        "ngaySinh":"03/01/2000",
+        "diemToan":6,
+        "diemLy":6,
+        "diemHoa":6,
+        "diemAnh":6,
+        "lop": "17C4"
+    },
+    {
+        "maSV": "17116HN",
+        "tenSV": "Nguyễn Văn G",
+        "tuoi":18,
+        "gioiTinh":"Nữ",
+        "ngaySinh":"03/01/2000",
+        "diemToan":6,
+        "diemLy":3.5,
+        "diemHoa":6,
+        "diemAnh":6,
+        "lop": "17C5"
+    },
+    {
+        "maSV": "17117HN",
+        "tenSV": "Nguyễn Văn F",
+        "tuoi":18,
+        "gioiTinh":"Nữ",
+        "ngaySinh":"03/01/2000",
+        "diemToan":6,
+        "diemLy":6,
+        "diemHoa":6,
+        "diemAnh":6,
+        "lop": "17C2"
+    }
+]
